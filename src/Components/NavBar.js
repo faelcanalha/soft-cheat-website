@@ -7,11 +7,6 @@ function NavBar() {
         </a>
         <ul>
           <li>
-            <a href="#home">
-              <span className="">Home</span>
-            </a>
-          </li>
-          <li>
             <a href="#prices">
               <span className="">Prices</span>
             </a>
