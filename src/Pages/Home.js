@@ -4,7 +4,7 @@ import NavBar from '../Components/NavBar';
 
 function Home() {
   return (
-    <>
+    <div className="navbarMargin">
       <NavBar />
 
       <main className="home" id="home">
@@ -25,7 +25,7 @@ function Home() {
           <img src="imgs/painel.png" alt="security" />
         </figure>
       </main>
-    </>
+    </div>
   );
 }
 
