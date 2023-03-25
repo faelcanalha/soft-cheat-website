@@ -164,6 +164,27 @@ body {
   box-shadow: var(--color-50) 0px 0px 0px 0.7px;
 }
 
+.home .about a button {
+  font-weight: 600;
+  font-size: 16px;
+
+  margin-top: 20px;
+  border-radius: 6px;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+
+  color: var(--color);
+  background-color: var(--background-secondary);
+  transition: all 600ms ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 1.5px;
+}
+
+.home .about a button:hover {
+  color: var(--background);
+  background-color: var(--color);
+}
+
 /* 
 ** MAIN MEDIA QUERY
 */

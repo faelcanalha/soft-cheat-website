@@ -19,6 +19,9 @@ function Home() {
               selection of tools and resources that will enhance your gaming
               experience.
             </p>
+            <a href="https://discord.gg/rKcmgSZVu5">
+              <button>Discord</button>
+            </a>
           </article>
         </Fade>
         <figure>
