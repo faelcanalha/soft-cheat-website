@@ -160,7 +160,8 @@ body {
   width: 560px;
   height: auto;
   animation: flutuar 3s infinite;
-  box-shadow: var(--color-50) 0px 0px 0px 1px;
+  border-radius: 10px;
+  box-shadow: var(--color-50) 0px 0px 0px 0.7px;
 }
 
 /* 
